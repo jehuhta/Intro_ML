@@ -1,0 +1,2 @@
+select_borough,select_bldg_class,lotarea,bldgarea,unitsres,unitstotal,numfloors,building_age,Home Price,timestamp
+BK,A0,0,0,0,0,0,0,0,2026-01-22 21:30:12.252029
