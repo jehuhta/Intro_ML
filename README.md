@@ -15,7 +15,7 @@ This repository shows my work from my Sprint 2026 Intro ML course. It contains a
 * `XGBoost`
 * lots more.
 
-You should be able to get a good feel for what my coding style looks like from these notebooks and at what skill level I was dugin Spring 2026.
+You should be able to get a good feel for what my coding style looks like from these notebooks and at what skill level I was at for Spring 2026.
 I put a reasonable level of effort into these notebooks, so feel free to browse through
 
 </i>
