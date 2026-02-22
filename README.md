@@ -30,6 +30,6 @@ The notebooks are inside of the 'Exercise' folders (Exercise1_GRADABLE) etc.
 
 <i>
   
-|Folder| Contents| Extra|
-|---|---|
+|Folder| Contents|Extra|
+|---|---|---|
 |Exercise1|`LinearRegression`, `Catboost`, `XGBoost`| `mlflow`, `RFE`, `PCA`|
