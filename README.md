@@ -26,10 +26,14 @@ I put a reasonable level of effort into these notebooks, so feel free to browse 
 The notebooks are inside of the 'Exercise' folders (Exercise1_GRADABLE) etc.
 </i>
 
-#### What's been completed so far:
+#### What's been completed so far (Class has been graded and completed):
 
 <i>
   
 |Folder| Contents|Extra|
 |---|---|---|
-|Exercise1|`LinearRegression`, `Catboost`, `XGBoost`| `mlflow`, `RFE`, `PCA`|
+|Exercise1|`LinearRegression`, `Catboost`, `XGBoost`| `mlflow`, `RFE`, `PCA`, `make_pipeline`|
+|Exercise2|`LogisticRegression`, `GridSearch`| `mlflow`, `PCA`, `make_pipeline`, `target_regressor`|
+|Exercise3| `SVR`, `SVC`, `RandomForestRegressor`|`XGBOOST`, `make_pipeline`, `target_regressor`|
+|Exercise4| `dtreeviz`||
+|Exercise5| `KNN`| `PCA`, `make_pipeline`, `GridSearch`| 
