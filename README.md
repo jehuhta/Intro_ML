@@ -23,11 +23,6 @@ I put a reasonable level of effort into these notebooks, so feel free to browse 
 
 </i>
 
-#### Where to begin:
-
-<i>
-The notebooks are inside of the 'Exercise' folders (Exercise1_GRADABLE) etc.
-</i>
 
 #### What's been completed so far (Class has been graded and completed):
 
